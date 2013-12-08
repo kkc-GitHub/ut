@@ -18,3 +18,7 @@ def h():
 c=h()
 q=c.next()
 print q
+q=c.send('well')
+print q
+q=c.send('bad')
+print q
